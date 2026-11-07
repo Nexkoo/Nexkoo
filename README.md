@@ -64,14 +64,64 @@ Student mini-rocket project spanning PCB design, pressure sensing, embedded elec
 
 ## Toolbox
 
-| Area | Technologies & ecosystems |
-| :--- | :--- |
-| **Languages** | Java · Python · TypeScript · JavaScript · SQL · HTML · CSS |
-| **Web & product** | React · Next.js · Tailwind CSS · Node.js · REST APIs · Stripe |
-| **Backend & game systems** | SQLite · MySQL · JDBC · Gradle · Paper · Spigot · Bukkit |
-| **AI & automation** | LLM APIs · AI agents · Silero VAD · Voice processing |
-| **Hardware & flight** | Raspberry Pi Pico 2 · Arduino · BMP388 · KiCad · OpenRocket |
-| **Tools & infrastructure** | Git · GitHub · Linux · SFTP · IntelliJ IDEA · VS Code |
+<p>
+<strong>Languages</strong><br />
+<img src="./assets/toolbox-mono/java.svg" height="34" alt="Java" />
+<img src="./assets/toolbox-mono/python.svg" height="34" alt="Python" />
+<img src="./assets/toolbox-mono/typescript.svg" height="34" alt="TypeScript" />
+<img src="./assets/toolbox-mono/javascript.svg" height="34" alt="JavaScript" />
+<img src="./assets/toolbox-mono/sql.svg" height="34" alt="SQL" />
+<img src="./assets/toolbox-mono/html.svg" height="34" alt="HTML" />
+<img src="./assets/toolbox-mono/css.svg" height="34" alt="CSS" />
+</p>
+
+<p>
+<strong>Web & product</strong><br />
+<img src="./assets/toolbox-mono/react.svg" height="34" alt="React" />
+<img src="./assets/toolbox-mono/next-js.svg" height="34" alt="Next.js" />
+<img src="./assets/toolbox-mono/tailwind-css.svg" height="34" alt="Tailwind CSS" />
+<img src="./assets/toolbox-mono/node-js.svg" height="34" alt="Node.js" />
+<img src="./assets/toolbox-mono/rest-apis.svg" height="34" alt="REST APIs" />
+<img src="./assets/toolbox-mono/stripe.svg" height="34" alt="Stripe" />
+</p>
+
+<p>
+<strong>Backend & game systems</strong><br />
+<img src="./assets/toolbox-mono/sqlite.svg" height="34" alt="SQLite" />
+<img src="./assets/toolbox-mono/mysql.svg" height="34" alt="MySQL" />
+<img src="./assets/toolbox-mono/jdbc.svg" height="34" alt="JDBC" />
+<img src="./assets/toolbox-mono/gradle.svg" height="34" alt="Gradle" />
+<img src="./assets/toolbox-mono/paper.svg" height="34" alt="Paper" />
+<img src="./assets/toolbox-mono/spigot.svg" height="34" alt="Spigot" />
+<img src="./assets/toolbox-mono/bukkit.svg" height="34" alt="Bukkit" />
+</p>
+
+<p>
+<strong>AI & automation</strong><br />
+<img src="./assets/toolbox-mono/llm-apis.svg" height="34" alt="LLM APIs" />
+<img src="./assets/toolbox-mono/ai-agents.svg" height="34" alt="AI agents" />
+<img src="./assets/toolbox-mono/silero-vad.svg" height="34" alt="Silero VAD" />
+<img src="./assets/toolbox-mono/voice-processing.svg" height="34" alt="Voice processing" />
+</p>
+
+<p>
+<strong>Hardware & flight</strong><br />
+<img src="./assets/toolbox-mono/raspberry-pi-pico-2.svg" height="34" alt="Raspberry Pi Pico 2" />
+<img src="./assets/toolbox-mono/arduino.svg" height="34" alt="Arduino" />
+<img src="./assets/toolbox-mono/bmp388.svg" height="34" alt="BMP388" />
+<img src="./assets/toolbox-mono/kicad.svg" height="34" alt="KiCad" />
+<img src="./assets/toolbox-mono/openrocket.svg" height="34" alt="OpenRocket" />
+</p>
+
+<p>
+<strong>Tools & infrastructure</strong><br />
+<img src="./assets/toolbox-mono/git.svg" height="34" alt="Git" />
+<img src="./assets/toolbox-mono/github.svg" height="34" alt="GitHub" />
+<img src="./assets/toolbox-mono/linux.svg" height="34" alt="Linux" />
+<img src="./assets/toolbox-mono/sftp.svg" height="34" alt="SFTP" />
+<img src="./assets/toolbox-mono/intellij-idea.svg" height="34" alt="IntelliJ IDEA" />
+<img src="./assets/toolbox-mono/vs-code.svg" height="34" alt="VS Code" />
+</p>
 
 **Currently exploring:** Go, autonomous workflows, hardware integration and system design.
 
