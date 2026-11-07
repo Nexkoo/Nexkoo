@@ -1,4 +1,4 @@
-<h1 align="center">Nexko — software, systems & companies</h1>
+<h1 align="center">Nexko - software, systems & companies</h1>
 
 <img src="./assets/profile-mono/hero-type.svg" width="100%" alt="Nexko — Ideas into software. Software into something real. Developer, student and founder based in France." />
 
