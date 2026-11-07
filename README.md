@@ -36,24 +36,24 @@ Experiments and projects in development, from Minecraft tooling to embedded engi
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/profile-mono/models.svg" width="100%" alt="Models — Minecraft model tooling, in development." />
+<img src="./assets/profile-mono/models-type.svg" width="100%" alt="Models — Minecraft model tooling, in development." />
 <strong>Models</strong><br />
 Minecraft-focused model tooling and product development. Not released.
 </td>
 <td width="50%" valign="top">
-<img src="./assets/profile-mono/athena.svg" width="100%" alt="Athéna — local voice-first AI assistant, prototype in development." />
+<img src="./assets/profile-mono/athena-type.svg" width="100%" alt="Athéna — local voice-first AI assistant, prototype in development." />
 <strong>Athéna</strong><br />
 A local, voice-first AI assistant exploring tools, scheduled actions and personal workflows.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://www.instagram.com/kingdomjv/"><img src="./assets/profile-mono/jv.svg" width="100%" alt="JV’s Kingdom — school Minecraft community, in development. Visit Instagram." /></a>
+<a href="https://www.instagram.com/kingdomjv/"><img src="./assets/profile-mono/jv-type.svg" width="100%" alt="JV’s Kingdom — school Minecraft community, in development. Visit Instagram." /></a>
 <strong>JV's Kingdom</strong><br />
 Technical leadership: Paper backend, kingdoms, economy, claims and Java/Bedrock interoperability.
 </td>
 <td width="50%" valign="top">
-<img src="./assets/profile-mono/cspace.svg" width="100%" alt="C’SPACE — student mini-rocket engineering, in development." />
+<img src="./assets/profile-mono/cspace-type.svg" width="100%" alt="C’SPACE — student mini-rocket engineering, in development." />
 <strong>C'SPACE</strong><br />
 Student mini-rocket project spanning PCB design, pressure sensing, embedded electronics and flight simulation.
 </td>
