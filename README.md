@@ -1,77 +1,108 @@
-<div align="center">
-<img src="./assets/hero.svg" width="100%" alt="Nexko — software, systems, companies" />
-</div>
+<h1 align="center">Nexko — software, systems & companies</h1>
 
-<br/>
+<img src="./assets/hero.svg" width="100%" alt="Nexko — Ideas into software. Software into something real. Developer, student and founder based in France." />
 
-I'm **Nexko** ([@Nexkoo](https://github.com/Nexkoo) on GitHub) — a developer, student and founder based in France.
-I build software products, AI experiments, game systems and engineering projects. I started **[MCMinelab](https://mcminelab.fr)**, a real software business, and I'm interested in what comes after it.
+<p align="center">
+<a href="https://mcminelab.fr"><strong>MCMinelab ↗</strong></a> &nbsp; / &nbsp;
+<a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+<a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+<a href="mailto:contact@mcminelab.fr">Get in touch ↗</a>
+</p>
 
-**Focus:** shipping real products · engineering systems · learning across disciplines · building companies
+<br />
 
----
+I'm **Nexko**, a developer, student and founder based in France. I build software products, experiment with local AI, and work on systems that connect code to games, communities and hardware.
 
-### 01 — Selected work
+I founded **[MCMinelab](https://mcminelab.fr)**, a Minecraft software studio. My interests extend from shipping useful products to designing electronics and exploring what my next company could become.
 
-<a href="https://mcminelab.fr"><img src="./assets/MCML_Official_banner.png" width="100%" alt="MCMinelab — official brand visual" /></a>
+<br />
 
-**01 / [MCMinelab](https://mcminelab.fr)** — Founded and operate a Minecraft software studio, building commissioned software and public products. **Operating business.**
+## Selected work
 
-<a href="https://mcminelab.fr/plugins/modernhdv"><img src="./assets/modernhdv.svg" width="100%" alt="ModernHDV project" /></a>
+<a href="https://mcminelab.fr"><img src="./assets/mcminelab.svg" width="100%" alt="MCMinelab — operating Minecraft software studio. Commissioned software and public products. Explore the studio." /></a>
 
-<a href="https://mcminelab.fr/plugins/modernhdv">**02 / ModernHDV — Product website ↗**</a>  
-Free / Pro Minecraft auction-house plugin, with database-driven systems and cross-server features. **Released / evolving.**
+**Founder & operator.** Building commissioned Minecraft software and public products through my first company.
 
-<img src="./assets/models.svg" width="100%" alt="Models — in development" />
+<a href="https://mcminelab.fr/plugins/modernhdv"><img src="./assets/modernhdv.svg" width="100%" alt="ModernHDV — released and evolving Free / Pro Minecraft auction-house plugin, with database-driven systems and cross-server features. View the product." /></a>
 
-**03 / Models** — Minecraft-focused model tooling and product development. **In development; not released.**
+**[ModernHDV ↗](https://mcminelab.fr/plugins/modernhdv)** brings auction-house functionality to Minecraft servers, with Free and Pro editions.
 
-<img src="./assets/athena.svg" width="100%" alt="Athéna — in development" />
+<br />
 
-**04 / Athéna** — Local, voice-first AI assistant exploring tools, scheduled actions and personal workflows. **In development / prototype.**
+### In the lab
 
-<a href="https://www.instagram.com/kingdomjv/"><img src="./assets/jv.svg" width="100%" alt="JV's Kingdom — school server project" /></a>
+Experiments and projects in development, from Minecraft tooling to embedded engineering.
 
-**05 / [JV's Kingdom — Instagram ↗](https://www.instagram.com/kingdomjv/)** — Technical leadership on a school Minecraft community: Paper backend, kingdoms, economy, claims and Java/Bedrock interoperability. **In development.**
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/models.svg" width="100%" alt="Models — Minecraft model tooling, in development." />
+<strong>Models</strong><br />
+Minecraft-focused model tooling and product development. Not released.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/athena.svg" width="100%" alt="Athéna — local voice-first AI assistant, prototype in development." />
+<strong>Athéna</strong><br />
+A local, voice-first AI assistant exploring tools, scheduled actions and personal workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.instagram.com/kingdomjv/"><img src="./assets/jv.svg" width="100%" alt="JV’s Kingdom — school Minecraft community, in development. Visit Instagram." /></a>
+<strong><a href="https://www.instagram.com/kingdomjv/">JV's Kingdom ↗</a></strong><br />
+Technical leadership: Paper backend, kingdoms, economy, claims and Java/Bedrock interoperability.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/cspace.svg" width="100%" alt="C’SPACE — student mini-rocket engineering, in development." />
+<strong>C'SPACE</strong><br />
+Student mini-rocket project spanning PCB design, pressure sensing, embedded electronics and flight simulation.
+</td>
+</tr>
+</table>
 
-<img src="./assets/cspace.svg" width="100%" alt="C'SPACE rocket engineering project" />
+<br />
 
-**06 / C'SPACE** — Student mini-rocket work spanning PCB design, pressure sensing, embedded electronics and flight simulation. **In development; no public project link yet.**
+## Toolbox
 
----
+| Area | Technologies & ecosystems |
+| :--- | :--- |
+| **Languages** | Java · Python · TypeScript · JavaScript · SQL · HTML · CSS |
+| **Web & product** | React · Next.js · Tailwind CSS · Node.js · REST APIs · Stripe |
+| **Backend & game systems** | SQLite · MySQL · JDBC · Gradle · Paper · Spigot · Bukkit |
+| **AI & automation** | LLM APIs · AI agents · Silero VAD · Voice processing |
+| **Hardware & flight** | Raspberry Pi Pico 2 · Arduino · BMP388 · KiCad · OpenRocket |
+| **Tools & infrastructure** | Git · GitHub · Linux · SFTP · IntelliJ IDEA · VS Code |
 
-### 02 — Technology archive
-
-<img src="./assets/technology-01.svg" width="100%" alt="Technology archive part one — languages, web, backend, infrastructure" />
-<img src="./assets/technology-02.svg" width="100%" alt="Technology archive part two — AI, Minecraft ecosystems, electronics, exploration" />
+**Currently exploring:** Go, autonomous workflows, hardware integration and system design.
 
 <details>
-<summary><strong>How to read this archive</strong></summary>
+<summary><strong>Open the full technology archive</strong></summary>
 
-These are technologies, ecosystems and tools I have worked with, integrated or explored. They are **not** all at the same proficiency level. Go is explicitly marked as learning; concepts and ecosystems are distinguished from production tools. This is a growing archive, not a certification list.
+<br />
+
+<img src="./assets/technology-01.svg" width="100%" alt="Technology archive: languages; web and product; data and backend; infrastructure." />
+<img src="./assets/technology-02.svg" width="100%" alt="Technology archive: AI; Minecraft ecosystems including Geyser, Floodgate, ViaVersion and Velocity; electronics; current exploration." />
+
+These are tools and ecosystems I've used, integrated or explored, with varying levels of experience. Go is a learning focus; MCP is a conceptual exploration.
 
 </details>
 
----
+<br />
 
-### 03 — Beyond code
+## Beyond code
 
-<img src="./assets/ventures.svg" width="100%" alt="Company building — MCMinelab and next ventures under exploration" />
+<img src="./assets/ventures.svg" width="100%" alt="Beyond the first company — exploring a web / digital agency, an idea in development with no announced launch." />
 
-**MCMinelab** is my first company. I'm also exploring a **web / digital agency** as a possible next business. It's an idea in development, **not** an existing subsidiary or announced launch.
+MCMinelab is my first company. I'm also exploring a **web / digital agency** as a possible next venture.
 
----
+<br />
 
-### 04 — Activity
+### Let's build something useful.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nexkoo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=111714&amp;title_color=a7b38e&amp;text_color=f1f0e5&amp;icon_color=e1ac73" height="170" alt="GitHub statistics, best effort" />
-</p>
+For commissioned Minecraft software and business enquiries: **[contact@mcminelab.fr](mailto:contact@mcminelab.fr)**.
 
-<sub>GitHub stats may not reflect work in private repositories, and third-party images can occasionally be unavailable.</sub>
+[MCMinelab ↗](https://mcminelab.fr) &nbsp; · &nbsp; [GitHub ↗](https://github.com/Nexkoo)
 
----
+<br />
 
-**Find me:** [MCMinelab](https://mcminelab.fr) · [GitHub](https://github.com/Nexkoo) · [Business email](mailto:contact@mcminelab.fr)
-
-<img src="./assets/footer.svg" width="100%" alt="Make it real" />
+<img src="./assets/footer.svg" width="100%" alt="Make it real. Nexko, France. Always building." />
