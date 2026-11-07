@@ -89,14 +89,6 @@ These are tools and ecosystems I've used, integrated or explored, with varying l
 
 <br />
 
-## Beyond code
-
-<img src="./assets/profile-mono/ventures.svg" width="100%" alt="Beyond the first company — exploring a web / digital agency, an idea in development with no announced launch." />
-
-MCMinelab is my first company. I'm also exploring a **web / digital agency** as a possible next venture.
-
-<br />
-
 ### Let's build something useful.
 
 For commissioned Minecraft software and business enquiries, use the contact button below.
