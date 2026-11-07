@@ -99,7 +99,7 @@ MCMinelab is my first company. I'm also exploring a **web / digital agency** as 
 
 ### Let's build something useful.
 
-For commissioned Minecraft software and business enquiries: **contact@mcminelab.fr**.
+For commissioned Minecraft software and business enquiries, use the contact button below.
 
 <p>
 <a href="mailto:contact@mcminelab.fr"><img src="./assets/profile-mono/link-email.svg" width="160" alt="Email contact@mcminelab.fr" /></a>
