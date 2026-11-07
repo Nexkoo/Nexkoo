@@ -1,6 +1,6 @@
 <h1 align="center">Nexko — software, systems & companies</h1>
 
-<img src="./assets/profile-mono/hero.svg" width="100%" alt="Nexko — Ideas into software. Software into something real. Developer, student and founder based in France." />
+<img src="./assets/profile-mono/hero-type.svg" width="100%" alt="Nexko — Ideas into software. Software into something real. Developer, student and founder based in France." />
 
 <p align="center">
 <a href="https://mcminelab.fr"><img src="./assets/profile-mono/nav-studio.svg" width="160" alt="MCMinelab" /></a>
@@ -19,7 +19,7 @@ I founded **MCMinelab**, a Minecraft software studio. My interests extend from s
 
 ## Selected work
 
-<a href="https://mcminelab.fr"><img src="./assets/profile-mono/mcminelab.svg" width="100%" alt="MCMinelab — operating Minecraft software studio. Commissioned software and public products. Explore the studio." /></a>
+<a href="https://mcminelab.fr"><img src="./assets/profile-mono/mcminelab-official.svg" width="100%" alt="MCMinelab — operating Minecraft software studio. Commissioned software and public products. Explore the studio." /></a>
 
 **Founder & operator.** Building commissioned Minecraft software and public products through my first company.
 
